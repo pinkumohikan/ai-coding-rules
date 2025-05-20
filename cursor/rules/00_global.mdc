@@ -1,5 +1,5 @@
 ---
-description: Apply this rule to the entire repository
+description: 
 globs: 
 alwaysApply: true
 ---
@@ -15,7 +15,7 @@ alwaysApply: true
     - 列挙したステップの最適な実行順序を決定してください。
     - `.comments_by_operator.md` を読み、既出の指摘を繰り返さないように計画を見直して下さい。
 2. タスクの実行
-    - [@coding_rule.mdc](cursor/rules/coding_rule.mdc) に従い、タスクを実行してください。
+    - [@coding_rule.mdc](mdc:cursor/rules/coding_rule.mdc) に従い、タスクを実行してください。
     - 特定したステップを一つずつ実行してください。
     - 実装時の注意事項
         - 既存コードのスタイルを踏襲すること
